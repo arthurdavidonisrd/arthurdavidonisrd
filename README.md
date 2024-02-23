@@ -1,4 +1,4 @@
-## Olá! me chamo Arthur Rodrigues Davidonis
+## Hello! My name is Arthur Rodrigues Davidonis
 
 
 - 🔭 I am currently a full-stack freelancer.
