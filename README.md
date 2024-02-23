@@ -30,7 +30,7 @@
 </div>
 
 <div style="margin: 25px"> <br> 
-   <iframe>https://www.hackerrank.com/certificates/iframe/0e68eaaea2a5</iframe>
+   https://www.hackerrank.com/certificates/iframe/0e68eaaea2a5
 </div>
 
 
