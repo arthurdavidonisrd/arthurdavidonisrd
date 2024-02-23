@@ -29,9 +29,6 @@
   <a href="https://www.linkedin.com/in/arthurdavidonisrd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div style="margin: 25px"> <br> 
-   https://www.hackerrank.com/certificates/iframe/0e68eaaea2a5
-</div>
 
 
 
