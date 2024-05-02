@@ -1,8 +1,8 @@
 ## Hello! My name is Arthur Rodrigues Davidonis
 
 
-- 🔭 I am currently a full-stack freelancer.
-- 🧐 Currently studying: front-end and data analysis
+- 🔭 I am currently WEB freelancer.
+- 🧐 Currently studying: JavaScript/ frontend web and data structure
 - 😄 Pronouns: he/him
 - 🤓A little about me: I am a programming student and fascinated by algorithms and computer science concepts. With knowledge of digital circuits, computer networks and computational architecture
 
