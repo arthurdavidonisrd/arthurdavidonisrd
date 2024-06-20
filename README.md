@@ -2,7 +2,7 @@
 
 
 - 🔭 I am currently WEB freelancer.
-- 🧐 Currently studying: PHP - NodeJS - Java and data structure
+- 🧐 Currently studying: PHP - NodeJS - Laravel and data structure
 - 😄 Pronouns: he/him
 - 🤓A little about me: I am a programming student and fascinated by algorithms and computer science concepts. With knowledge of digital circuits, computer networks and computational architecture
 
