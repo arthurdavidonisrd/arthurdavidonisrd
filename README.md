@@ -2,7 +2,6 @@
 
 
 - 🔭 I am currently WEB freelancer.
-- 🧐 Currently studying: PHP - NodeJS - React
 - 🤓A little about me: I am a programming student and a web software developer, you can contact me with the liks below
 
 
