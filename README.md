@@ -8,7 +8,6 @@
 
 ###
 
-<img align="right" height="150" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpCUybnwHMsdRK82IL8q0o5RWwQqGJbHptQsVk85wsK-2EEngvkzRm4nqkq9SLzOWnkyzVFszBIXyMGASh8L4QtvQ4fWZHqNFWjLTLkAx_hqdkC9HtbHWUchKdn_wI8lxjcCFJX5Hkf74/s1600/Rick+Grimes+2.gif"  />
 
 ###
 
